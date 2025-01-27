@@ -1,4 +1,4 @@
-<h1> Hi, I’m Leon , <br> A Cybersecurity Professional</br></h1>
+<h1> Hi, I’m Leon , <br>  Cybersecurity Professional</br></h1>
   <h3>My Passion</h3>
   I’m interested in Goverance, Risk and Compliance (GRC). <br>I am passionate about helping organisations to put in place policies that are compliant with Security frameworks and Federal Laws,ensuring that businesses and their clients are protected against the activities of threats actors.
   <h3>Training</h3>
